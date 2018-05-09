@@ -12,8 +12,6 @@ public class Test001
         {
             Class.forName("com.mysql.jdbc.Driver");
 
-
-
         } catch (ClassNotFoundException e)
         {
             e.printStackTrace();
